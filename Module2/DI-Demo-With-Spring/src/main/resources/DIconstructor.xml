@@ -1,0 +1,22 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="jhu" class="app.demo.bean.School">
+        <constructor-arg index="0" ref="student" />
+        <constructor-arg index="1" ref="faculty" />
+    </bean>
+
+    <bean id="student"
+        class="app.demo.bean.Student">
+        <constructor-arg index="0" value="IamStudent" />
+        <constructor-arg index="1" value="987" />
+    </bean>
+
+    <bean id="faculty"
+        class="app.demo.bean.Faculty">
+        <constructor-arg value="IamProfessor" />
+    </bean>
+
+</beans>

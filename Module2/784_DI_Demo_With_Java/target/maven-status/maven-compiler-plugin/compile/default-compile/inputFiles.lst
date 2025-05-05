@@ -1,0 +1,10 @@
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/container_injector/PhoneServiceInjector.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/service/NotificationService.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/test/DITest.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/service/PhoneServiceImpl.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/consumer/MyApp.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/consumer/Consumer.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/container_injector/NotificationServiceInjector.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/test/DITest_dynamic.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/container_injector/EmailServiceInjector.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/784_DI_Demo_With_Java/src/main/java/app/service/EmailServiceImpl.java

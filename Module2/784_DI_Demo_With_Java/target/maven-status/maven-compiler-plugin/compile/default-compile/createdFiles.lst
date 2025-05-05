@@ -1,0 +1,10 @@
+app/container_injector/EmailServiceInjector.class
+app/service/EmailServiceImpl.class
+app/consumer/MyApp.class
+app/service/PhoneServiceImpl.class
+app/container_injector/PhoneServiceInjector.class
+app/container_injector/NotificationServiceInjector.class
+app/consumer/Consumer.class
+app/test/DITest.class
+app/service/NotificationService.class
+app/test/DITest_dynamic.class
