@@ -1,0 +1,5 @@
+com/mycompany/course/CourseController.class
+com/mycompany/course/CourseService.class
+com/mycompany/course/CourseRepository.class
+com/mycompany/course/Course.class
+com/mycompany/StartApplication.class

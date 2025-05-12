@@ -1,0 +1,5 @@
+com/mycompany/student/Student.class
+com/mycompany/student/StudentRepository.class
+com/mycompany/student/StartApplication.class
+com/mycompany/student/StudentService.class
+com/mycompany/student/StudentController.class
