@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>info.ejava.examples.svc.api</groupId>
+  <artifactId>rpc-gestures-svc</artifactId>
+  <version>6.0.0-SNAPSHOT</version>
+  <name>Services::API::Simple RPC Greeter::Service</name>
+  <description>This project provides an introductory example of a 
+        simple Spring MVC RPC API and calls</description>
+  <url>https://jcs.ep.jhu.edu/ejava-springboot/svc/svc-api/rpc-greeter-example/rpc-gestures-svc</url>
+  <distributionManagement>
+    <repository>
+      <id>ejava.repo</id>
+      <url>${repo.deploy.url}</url>
+    </repository>
+    <snapshotRepository>
+      <id>ejava.snapshot.repo</id>
+      <url>${repo.snapshot.deploy.url}</url>
+    </snapshotRepository>
+    <site>
+      <id>ejava.site</id>
+      <url>${site.deploy.url}/svc/svc-api/rpc-greeter-example/rpc-gestures-svc</url>
+    </site>
+  </distributionManagement>
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+      <version>2.4.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-webflux</artifactId>
+      <version>2.4.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.20</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.springfox</groupId>
+      <artifactId>springfox-boot-starter</artifactId>
+      <version>3.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-devtools</artifactId>
+      <version>2.4.2</version>
+      <scope>compile</scope>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+</project>

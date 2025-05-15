@@ -1,0 +1,13 @@
+package com.mycompany.httpapimydemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HttpApiMydemoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
