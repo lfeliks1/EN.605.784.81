@@ -1,0 +1,6 @@
+com/mycompany/app/MainApp.class
+com/mycompany/app/App.class
+com/mycompany/app/Student.class
+com/mycompany/app/StudentConfiguration.class
+com/mycompany/app/StudentDao.class
+com/mycompany/app/JdbcStudentDao.class
