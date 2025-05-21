@@ -1,0 +1,12 @@
+com/mycompany/demo/dtos/CreateCourseDto.class
+com/mycompany/demo/MySpringMongodbDemoApplication.class
+com/mycompany/demo/models/Course.class
+com/mycompany/demo/models/StudentLevel.class
+com/mycompany/demo/dtos/CreateStudentDto.class
+com/mycompany/demo/models/GenericModel.class
+com/mycompany/demo/controllers/SchoolController.class
+com/mycompany/demo/models/Student.class
+com/mycompany/demo/listeners/MongoListener.class
+com/mycompany/demo/controllers/SchoolController$1.class
+com/mycompany/demo/repositories/CourseRepository.class
+com/mycompany/demo/repositories/StudentRepository.class

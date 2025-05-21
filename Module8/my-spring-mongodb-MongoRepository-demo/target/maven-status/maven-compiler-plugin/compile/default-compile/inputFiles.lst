@@ -1,0 +1,11 @@
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/MySpringMongodbDemoApplication.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/controllers/SchoolController.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/dtos/CreateCourseDto.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/dtos/CreateStudentDto.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/listeners/MongoListener.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/models/Course.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/models/GenericModel.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/models/Student.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/models/StudentLevel.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/repositories/CourseRepository.java
+/Users/leonidfelikson/605784_development/Git_Repos_Demos/EN.605.784.81/Module8/my-spring-mongodb-MongoRepository-demo/src/main/java/com/mycompany/demo/repositories/StudentRepository.java
