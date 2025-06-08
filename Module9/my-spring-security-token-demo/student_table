@@ -1,0 +1,38 @@
+DROP TABLE IF EXISTS student;
+
+CREATE TABLE student (ID bigint (20), password varchar(255), token varchar(255), user_name VARCHAR(255));
+
+INSERT INTO student VALUES 
+   (1, 'pass1', '', 'user1'),
+   (2, 'pass2', '', 'user2');
+
+SELECT * FROM student; 
+
+
+++++++++++++++++++++
+
+
+
+DROP TABLE IF EXISTS student;
+
+CREATE TABLE student (ID bigint (20), password varchar(255), token varchar(255), user_name VARCHAR(255),
+                     CONSTRAINT unique_token UNIQUE (token));
+
+INSERT INTO student VALUES 
+   (1, 'pass1', 't1', 'user1'),
+   (2, 'pass2', 't2', 'user2'),
+   (3, 'pass3', 't3', 'user3'),
+   (4, 'pass4', 't4', 'user4');
+
+SELECT * FROM student; 
+
+
+
+++++++++++++++++++++++++++
+
+from 605.789 Module 10:
+
+DROP TABLE IF EXISTS student;
+CREATE TABLE student (ID bigint (20), password varchar(255), token varchar(255), user_name VARCHAR(255));
+INSERT INTO student VALUES(1, 'lfpw', 'lftoken', 'lfun');
+SELECT * FROM student; 

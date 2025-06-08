@@ -1,0 +1,7 @@
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/controller/StudentController.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/SpringSecurityForARestApiApplication.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/jpa/Student.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/jpa/StudentRepository.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/controller/AuthNController.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/App.java
+/Users/leonidfelikson/605784_development/784-SpringBoot-Enterprise-Computing-with-Java/assignments/Module9/my-security-service-basic-auth-demo/src/main/java/jhu/rest/service/StudentService.java

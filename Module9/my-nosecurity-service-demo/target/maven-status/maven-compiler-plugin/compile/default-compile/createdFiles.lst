@@ -1,0 +1,6 @@
+jhu/rest/jpa/StudentRepository.class
+jhu/rest/jpa/Student.class
+jhu/rest/NosecurityRestApiApplication.class
+jhu/rest/App.class
+jhu/rest/service/StudentService.class
+jhu/rest/controller/StudentController.class
