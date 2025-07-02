@@ -1,0 +1,1 @@
+A demo of a Spring Boot project using Apache ActiveMQ showcasing use of PUB/SUB topic-based messaging pattern
